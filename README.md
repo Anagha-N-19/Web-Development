@@ -1,1 +1,1 @@
-Web Development Projects using HTML, CSS
+Web Development Projects using HTML, CSS, JavaScript, jQuery
